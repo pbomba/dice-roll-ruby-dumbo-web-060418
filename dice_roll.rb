@@ -5,5 +5,5 @@
 
 def roll
   face = [1, 2, 3, 4, 5, 6]
-  
+  face.sample
 end
